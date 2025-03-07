@@ -1,5 +1,8 @@
 # Olá, sou o Richard. Seja bem-vindo(a) ao meu perfil! 🤓
 
+# 👩🏻‍💻técnico de informática para internet - ETEC
+# 👩🏻‍💻 analise e desenvolvimento de sistemas -  Impacta
+
 <div style="display: flex;justify-content: space-between; align-items: center; gap: 40px;">
   <a href="https://github.com/RichardSantosPaiva">
     <img src="https://github-readme-stats.vercel.app/api?username=RichardSantosPaiva&show_icons=true&theme=radical&rank_icon=github&bg_color=1a1a1a&text_color=ffffff" height="200" />
