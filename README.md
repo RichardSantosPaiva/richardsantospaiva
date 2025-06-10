@@ -1,7 +1,7 @@
 # Olá, sou o Richard. Seja bem-vindo(a) ao meu perfil! 🤓
 
-- 📘 técnico de informática para internet - ETEC
 - 📘   analise e desenvolvimento de sistemas -  Faculdade Impacta
+- 📘 técnico de informática para internet - ETEC
 
 <div style="display: flex;justify-content: space-between; align-items: center; gap: 40px;">
   <a href="https://github.com/RichardSantosPaiva">
