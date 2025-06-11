@@ -16,7 +16,7 @@
 <br />
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,typescript,express,dotnet,python,php,mongodb,prisma,mysql,react,tailwind,bootstrap,git" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,express,dotnet,python,php,mongodb,prisma,mysql,react,angular,tailwind,bootstrap,git" />
 </a>
 
 <br/>
